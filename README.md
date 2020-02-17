@@ -13,6 +13,20 @@ https://www.google.com/maps/dir/Health+Leisure+and+Sport+Facility+Bldg+72,+11000
 - Fairly long hill in the last mile of the run when I'm hoping to _cool-down_, mentally.
 
 
+## 7.5 Miles
+https://www.google.com/maps/dir/30.5440237,-87.2213795/30.5444328,-87.220172/@30.5397202,-87.2092119,14.73z/data=!4m24!4m23!1m20!3m4!1m2!1d-87.2052972!2d30.5432079!3s0x8890eadf7601931d:0xfe8b8184cb3ae730!3m4!1m2!1d-87.1967928!2d30.5355011!3s0x8890eae42d1e56d9:0xe1edd80e099ea09d!3m4!1m2!1d-87.1886258!2d30.546817!3s0x8890eb03b4ff10e5:0x8262c1f774d237a5!3m4!1m2!1d-87.1961579!2d30.5358506!3s0x8890eae446c9a4a5:0x7122dcacd7ee10cc!1m0!3e2
+
+### Pros
+- Out and back, so modding to any distance **up to** 7.5 miles is simple.
+- Two quiet neighborhoods with very little traffic once you get off campus.
+- The route gets down into some wetlands with a few views of the bayou and some wetland birds, etc.
+
+### Cons
+- Small stretch (about 1/4 mile each way) along Scenic Highway.
+- Out and back.
+- Route is fairly hilly (especially the part on campus) so keeping a specific pace can be challenging.
+
+
 ## 6 Miles
 https://www.google.com/maps/dir/30.5440237,-87.2213795/30.5444328,-87.220172/@30.5469069,-87.2395372,14.58z/data=!4m34!4m33!1m30!3m4!1m2!1d-87.2265283!2d30.5394787!3s0x8890952bf9b0b8ff:0xd2eed164ac7a2fc5!3m4!1m2!1d-87.2325763!2d30.5370281!3s0x88909525e5824cf7:0x46f8bff6caf22909!3m4!1m2!1d-87.236646!2d30.5481264!3s0x889094d92942949f:0x3f6a9cbad531cdbd!3m4!1m2!1d-87.2342433!2d30.5510017!3s0x889094d97e5997d5:0xe3b7d265cddae4a5!3m4!1m2!1d-87.2258042!2d30.5592971!3s0x889094cc2bb13a8d:0xae8c99abfb4ed6cc!3m4!1m2!1d-87.2226421!2d30.5485609!3s0x889094d4b679ed07:0xe08693ffe5e9c13c!1m0!3e1
 
